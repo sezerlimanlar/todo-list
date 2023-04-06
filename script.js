@@ -5,7 +5,6 @@ const inputText = document.querySelector("#task");
 const ulList = document.querySelector("#list");
 const li = ulList.getElementsByTagName("li");
 const close = document.querySelectorAll('.close')
-const close2 = document.getElementsByClassName('close')
 
 
 
