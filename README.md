@@ -1,3 +1,3 @@
-## TODO-LIST UYGULAMASI- JAVASCRIPT
+## TODO-LIST UYGULAMASI / JAVASCRIPT
 
-Eklemeler yapılacaktır
+Local Storage Eklenicektir.
