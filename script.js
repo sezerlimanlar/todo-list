@@ -4,8 +4,10 @@
 const inputText = document.querySelector("#task");
 const ulList = document.querySelector("#list");
 const li = ulList.getElementsByTagName("li");
-const liAll = document.querySelectorAll("#li");
 const close = document.querySelectorAll('.close')
+const close2 = document.getElementsByClassName('close')
+
+
 
 //İnputun value değerine göre listeye eleman ekleme
 function newElement() {
