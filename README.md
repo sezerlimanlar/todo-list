@@ -1,3 +1,3 @@
 ## TODO-LIST UYGULAMASI / JAVASCRIPT
 
-Local Storage Eklenecektir.
+basic todolist
